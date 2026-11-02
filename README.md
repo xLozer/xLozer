@@ -1,8 +1,7 @@
-# Hi there, I'm Leonardo (xLozer) 👋 
+# Hi there, I'm Leonardo | xLozer Code 👋 
 
 ### 🚀 Software Engineer & Tech Builder
 A developer focused on creating robust software, smart automations, and high-performance applications. I bridge the gap between complex logic and clean architecture, integrating modern toolsets and AI to build efficient, scalable solutions.
-
 ---
 
 ### 🛠️ Technologies & Ecosystem
@@ -38,12 +37,11 @@ A developer focused on creating robust software, smart automations, and high-per
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xLozer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="xLozer GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xLozer&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="xLozer Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=xLozer&theme=tokyonight&hide_border=true" alt="xLozer Contributions Streak" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=xLozer&theme=tokyonight&hide_border=true" alt="xLozer Contributions Streak" />
+  <img src="https://komarev.com/ghpvc/?username=xLozer&label=Profile%20Views&color=3178c6&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
